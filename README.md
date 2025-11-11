@@ -1,5 +1,4 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Kh4wf0x;From+Morocco;Full-Stack+Developer;AI+&+Web+Enthusiast;Welcome!+ツ)
 
 ---
 
