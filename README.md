@@ -2,14 +2,14 @@
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header" />
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Kh4wf0x;From+Morocco;Full-Stack+Developer;AI+&+Web+Enthusiast;Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Kh4wf0x;From+Morocco;Full-Stack+Developer;AI+&+Web+Enthusiast;Welcome!+ツ)
 
 ---
 
 <div align="center">
 
 <!-- Profile GIF / Avatar -->
-<img src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/assassin.gif" width="200px" alt="Assassin GIF"/>
+<img src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/assassin_bw.gif" width="200px" alt="Assassin GIF"/>
 
 <!-- Stats -->
 <br><br>
