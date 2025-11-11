@@ -45,3 +45,30 @@
 <p align="center">
   <b>“Code, learn, repeat.”</b>
 </p>
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kh4wf0x&theme=tokyonight&border=false&include_all_commits=true&count_private=true&layout=compact" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kh4wf0x&theme=tokyonight&border=false&include_all_commits=true&count_private=true" height="150px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kh4wf0x&theme=tokyonight&hide_border=false" height="150px"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kh4wf0x&theme=onedark&no-frame=false&no-bg=false&margin-w=8" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <b>🔥 Keep coding, keep growing!</b>
+</p>
