@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kh4wf0x;C+Developer+in+Training;Building+the+Future+One+Line+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Hassan;C+Developer+in+Training;Building+the+Future+One+Line+at+a+Time" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=Kh4wf0x&color=blueviolet&style=flat-square)](https://github.com/Kh4wf0x)
+  [![Profile Views](https://komarev.com/ghpvc/?username=Hassan&color=blueviolet&style=flat-square)](https://github.com/Hassan)
   
 </div>
 
@@ -16,8 +16,8 @@
 #include <stdio.h>
 
 int main() {
-    char name[] = "Kh4wf0x";
-    char passion[] = "C Programming";
+    char name[] = "Hassan";
+    char passion[] = "C Programming & System Development";
     char goal[] = "Mastering low-level development";
     
     printf("👨‍💻 Developer: %s\n", name);
@@ -87,12 +87,12 @@ int main() {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kh4wf0x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kh4wf0x&layout=compact&theme=tokyonight&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan&layout=compact&theme=tokyonight&border_radius=10" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kh4wf0x&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan&theme=tokyonight&border_radius=10" />
 </div>
 
 ---
@@ -100,7 +100,7 @@ int main() {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kh4wf0x&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hassan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ---
@@ -127,16 +127,12 @@ int main() {
 ```
 
 ---
-</p>
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-</p>
 
 ## 📫 Connect With Me
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kh4wf0x)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hassan)
   
 </div>
 
@@ -146,8 +142,8 @@ int main() {
   
   ### 💻 "Code is poetry written in logic"
   
-  ![Snake animation](https://github.com/Kh4wf0x/Kh4wf0x/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Hassan/Hassan/blob/output/github-contribution-grid-snake.svg)
   
-  **⭐️ From [Kh4wf0x](https://github.com/Kh4wf0x)**
+  **⭐️ From [Hassan](https://github.com/Hassan)**
   
 </div>
