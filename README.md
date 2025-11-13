@@ -1,74 +1,149 @@
-<!--
-**YourUsername/YourUsername** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kh4wf0x;C+Developer+in+Training;Building+the+Future+One+Line+at+a+Time" alt="Typing SVG" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Kh4wf0x</h1>
-<h3 align="center">C Developer in Training</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F&lines=Learning+C+Language;Building+small+projects;Exploring+Linux+and+Git;Step+by+step+towards+mastery!&center=true&width=500&height=30">
-</p>
-
----
-
-### 🧠 What I'm Learning
-- 🧩 Core C Programming (functions, pointers, memory)
-- 💻 Linux & terminal basics  
-- ⚙️ Git and GitHub for version control
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=Kh4wf0x&color=blueviolet&style=flat-square)](https://github.com/Kh4wf0x)
+  
+</div>
 
 ---
 
-### 🧰 Tools & Skills
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
-</p>
+## 🚀 About Me
+
+```c
+#include <stdio.h>
+
+int main() {
+    char name[] = "Kh4wf0x";
+    char passion[] = "C Programming";
+    char goal[] = "Mastering low-level development";
+    
+    printf("👨‍💻 Developer: %s\n", name);
+    printf("💙 Passionate about: %s\n", passion);
+    printf("🎯 Current goal: %s\n", goal);
+    
+    return 0;
+}
+```
+
+🌱 I'm a **C programming enthusiast** on a journey to master systems programming, memory management, and building efficient software from the ground up.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kh4wf0x&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</p>
+## 🧠 Currently Learning
+
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/C_Programming-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    </td>
+    <td>
+      • Data structures & algorithms<br/>
+      • Pointers & memory management<br/>
+      • File I/O operations
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    </td>
+    <td>
+      • Shell scripting & terminal<br/>
+      • System administration basics<br/>
+      • Process management
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+    <td>
+      • Version control workflows<br/>
+      • Branching & merging<br/>
+      • Collaboration practices
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🎯 Goals
-- ✅ Finish C fundamentals  
-- 🔧 Build simple command-line tools  
-- 🚀 Contribute to open-source soon  
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
+</div>
 
 ---
 
-<p align="center">
-  <b>“Code, learn, repeat.”</b>
-</p>
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kh4wf0x&theme=tokyonight&border=false&include_all_commits=true&count_private=true&layout=compact" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kh4wf0x&theme=tokyonight&border=false&include_all_commits=true&count_private=true" height="150px"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kh4wf0x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kh4wf0x&layout=compact&theme=tokyonight&border_radius=10" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kh4wf0x&theme=tokyonight&hide_border=false" height="150px"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kh4wf0x&theme=tokyonight&border_radius=10" />
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kh4wf0x&theme=onedark&no-frame=false&no-bg=false&margin-w=8" alt="GitHub Trophies"/>
-</p>
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kh4wf0x&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
 
 ---
 
-<p align="center">
-  <b>🔥 Keep coding, keep growing!</b>
-</p>
+## 🎯 Current Goals
+
+- [x] Master C fundamentals (variables, loops, functions)
+- [x] Understand pointers and memory allocation
+- [ ] Build a custom shell in C
+- [ ] Implement common data structures from scratch
+- [ ] Contribute to open-source C projects
+- [ ] Deep dive into Linux kernel development
+
+---
+
+## 💡 Featured Projects
+
+```
+📁 Coming Soon...
+   ├── 🔧 Custom CLI Tools
+   ├── 📚 Data Structure Implementations
+   ├── 🎮 Terminal Games
+   └── 🔐 System Utilities
+```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kh4wf0x)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💻 "Code is poetry written in logic"
+  
+  ![Snake animation](https://github.com/Kh4wf0x/Kh4wf0x/blob/output/github-contribution-grid-snake.svg)
+  
+  **⭐️ From [Kh4wf0x](https://github.com/Kh4wf0x)**
+  
+</div>
