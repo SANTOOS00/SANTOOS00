@@ -3,13 +3,11 @@
 </div>
 
 <div align="center">
-
+  
   [![Profile Views](https://komarev.com/ghpvc/?username=Kh4wf0x&color=blueviolet&style=flat-square)](https://github.com/Kh4wf0x)
   
 </div>
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-</p>
+
 ---
 
 ## 🚀 About Me
@@ -85,20 +83,19 @@ int main() {
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kh4wf0x&theme=tokyonight&border=false&include_all_commits=true&count_private=true&layout=compact" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kh4wf0x&theme=tokyonight&border=false&include_all_commits=true&count_private=true" height="150px"/>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kh4wf0x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kh4wf0x&layout=compact&theme=tokyonight&border_radius=10&border=false" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kh4wf0x&theme=tokyonight&hide_border=true&border_radius=10" />
 </div>
 
 ---
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kh4wf0x&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</p>
----
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -132,6 +129,11 @@ int main() {
 
 ## 📫 Connect
 
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kh4wf0x)
+  
+</div>
 
 ---
 
