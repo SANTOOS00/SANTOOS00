@@ -3,7 +3,10 @@
 </div>
 
 <div align="center">
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kh4wf0x&theme=tokyonight&border=false&include_all_commits=true&count_private=true&layout=compact" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kh4wf0x&theme=tokyonight&border=false&include_all_commits=true&count_private=true" height="150px"/>
+</p> 
   [![Profile Views](https://komarev.com/ghpvc/?username=Kh4wf0x&color=blueviolet&style=flat-square)](https://github.com/Kh4wf0x)
   
 </div>
