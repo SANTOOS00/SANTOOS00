@@ -85,12 +85,9 @@ int main() {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kh4wf0x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kh4wf0x&layout=compact&theme=tokyonight&border_radius=10&border=false" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kh4wf0x&theme=tokyonight&border=false&include_all_commits=true&count_private=true&layout=compact" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kh4wf0x&theme=tokyonight&border=false&include_all_commits=true&count_private=true" height="150px"/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kh4wf0x&theme=tokyonight&hide_border=true&border_radius=10" />
