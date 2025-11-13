@@ -97,7 +97,11 @@ int main() {
 </div>
 
 ---
-
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kh4wf0x&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</p>
+---
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -131,11 +135,6 @@ int main() {
 
 ## 📫 Connect
 
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kh4wf0x)
-  
-</div>
 
 ---
 
