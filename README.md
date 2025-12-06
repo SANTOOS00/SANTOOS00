@@ -4,7 +4,6 @@
 
 <div align="center">
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=Kh4wf0x&color=blueviolet&style=flat-square)](https://github.com/Kh4wf0x)
   
 </div>
 
