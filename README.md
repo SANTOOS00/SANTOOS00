@@ -22,9 +22,7 @@ int main() {
 🌱 I'm a **C programming learner** focusing on mastering the fundamentals and building a strong foundation in systems programming.
 
 ---
-## 🧠 What I'm Learning
-... (نفس المحتوى) ...
-
+## 🧠 What I'm Learnin
 ---
 ## 📊 GitHub Stats
 <div align="center">
