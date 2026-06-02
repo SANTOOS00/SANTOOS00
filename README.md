@@ -62,11 +62,6 @@ int main() {
     <img src="https://badge.mediaplus.ma/colorfulwaves/moerrais"/>
   </a>
 </p>
-
-<p align="center">
-  💻 Passionate about systems programming & problem solving at 42 Network
-</p>
-<div align="center">
   
   ### 🔥 "Code, learn, repeat."
   
