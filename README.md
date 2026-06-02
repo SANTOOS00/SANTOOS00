@@ -25,19 +25,23 @@ int main() {
 ## 🧠 What I'm Learnin
 ---
 ## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SANTOOS00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANTOOS00&layout=compact&theme=tokyonight&border_radius=10&border=false" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SANTOOS00&theme=tokyonight&hide_border=true&border_radius=10" />
-</div>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SANTOOS00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANTOOS00&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=SANTOOS00&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
 
 ---
+
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SANTOOS00&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SANTOOS00&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+</p>
 
 ---
 ## 📫 Connect
