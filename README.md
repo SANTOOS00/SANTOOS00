@@ -1,9 +1,30 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+SANTOOS00;C+Developer+in+Training;Learning+Step+by+Step;Building+the+Future!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+SANTOOS00;C+Developer+in+Training;Learning+Step+by+Step;Building+the+Future!" />
 </div>
+
 ---
-## 🧠 What I'm Learnin
+
+## 🧠 What I'm Learning
+
+<p align="center">
+  💻 C Programming <br>
+  🧵 Multithreading & Mutex <br>
+  ⚙️ System Programming <br>
+  🧠 Problem Solving & Algorithms
+</p>
+
 ---
+
+## ⚡ About Me
+
+<p align="center">
+  🚀 Student at 42 Network <br>
+  🔍 Passionate about low-level programming <br>
+  🧠 Always learning step by step <br>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -13,6 +34,14 @@
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=SANTOOS00&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SANTOOS00&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
