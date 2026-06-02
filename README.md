@@ -4,23 +4,48 @@
 
 ---
 
+## ⚡ About Me
+
+<p align="center">
+  🚀 Student at 42 Network <br>
+  🔍 Passionate about low-level programming <br>
+  🧠 Focused on C, Threads & System Programming
+</p>
+
+---
+
 ## 🧠 What I'm Learning
 
 <p align="center">
   💻 C Programming <br>
   🧵 Multithreading & Mutex <br>
   ⚙️ System Programming <br>
-  🧠 Problem Solving & Algorithms
+  🧠 Algorithms & Problem Solving
 </p>
 
 ---
 
-## ⚡ About Me
+## 🧰 Tools & Skills
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python3](https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GCC](https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+
+</div>
+
+---
+
+# 🎓 My 42 Journey
 
 <p align="center">
-  🚀 Student at 42 Network <br>
-  🔍 Passionate about low-level programming <br>
-  🧠 Always learning step by step <br>
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/colorfulwaves/moerrais"/>
+  </a>
 </p>
 
 ---
@@ -46,39 +71,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SANTOOS00&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</p>
-
----
 ## 📫 Connect
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SANTOOS00)
-  
-</div>
-
-# 🎓 My 42 Journey
 
 <p align="center">
-<a href="https://github.com/oakoudad/badge42">
-<img src="https://badge.mediaplus.ma/greenbinary/moerrais"/>
-</a>
+  <a href="https://github.com/SANTOOS00">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
-## 🧰 Tools & Skills
-<div align="center">
-
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![Python3](https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![GCC](https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
-  ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=cmake&logoColor=white)
-
-</div>
