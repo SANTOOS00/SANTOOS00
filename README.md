@@ -55,6 +55,17 @@ int main() {
 </a>
 </p>
 ---
+# 🚀 My 42 Journey
+
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/colorfulwaves/moerrais"/>
+  </a>
+</p>
+
+<p align="center">
+  💻 Passionate about systems programming & problem solving at 42 Network
+</p>
 <div align="center">
   
   ### 🔥 "Code, learn, repeat."
