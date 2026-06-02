@@ -47,27 +47,13 @@ int main() {
   
 </div>
 
-# 🎓 42 Network Progress
+# 🎓 My 42 Journey
 
 <p align="center">
 <a href="https://github.com/oakoudad/badge42">
 <img src="https://badge.mediaplus.ma/greenbinary/moerrais"/>
 </a>
 </p>
----
-# 🚀 My 42 Journey
-
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/colorfulwaves/moerrais"/>
-  </a>
-</p>
-  
-  ### 🔥 "Code, learn, repeat."
-  
-  **From [SANTOOS00](https://github.com/SANTOOS00)**
-  
-</div>
 
 ## 🧰 Tools & Skills
 <div align="center">
