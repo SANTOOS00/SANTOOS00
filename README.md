@@ -7,7 +7,7 @@
 ```c
 #include <stdio.h>
 int main() {
-    char name[] = "SANTOOS00";
+    char name[] = "SANTOOS";
     char status[] = "C Developer in Training";
     char motto[] = "Code, learn, repeat.";
     
