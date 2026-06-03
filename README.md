@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/greenbinary/moerrais"/>
+    <img src="https://badge.mediaplus.ma/darkgray.svg/moerrais"/>
   </a>
 </p>
 
